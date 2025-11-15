@@ -24,8 +24,6 @@ This project is a **multi-agent AI system** designed for automating data workflo
 ## Installation
 
 ```bash
-git clone <repo-url>
-cd dataflow-agent/deployment
 python -m venv venv
 source venv/bin/activate  # macOS/Linux
 venv\Scripts\activate     # Windows
